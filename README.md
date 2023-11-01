@@ -9,4 +9,4 @@ Exercício vale 1.0 ponto na segunda nota;
 
 Grupo:
 
-https://github.com/vitoraranha2003 , https://github.com/lucaskgf , https://github.com/APLGABRIEL , https://github.com/Everaldorlj 
+https://github.com/vitoraranha2003 , https://github.com/lucaskgf , https://github.com/APLGABRIEL, https://github.com/ogabrielpontes , https://github.com/juanliira, https://github.com/nathanserrao
